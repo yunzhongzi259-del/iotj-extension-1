@@ -15,6 +15,8 @@ Part I: COMPARISON EXPERIMENT AND EXTENSION
 
 (d) Influence of imperfect CSI environment; pp. 6--7
 
+(e) Influence of block varying setting of HWI; pp. 7--8
+
 Part II: INVESTIGATION OF MODELING METHODOLOGY
 
 (a) Accuracy of using Laguerre-polynomial expansion? pp. 7--8
