@@ -19,13 +19,13 @@ Part I: COMPARISON EXPERIMENT AND EXTENSION
 
 Part II: INVESTIGATION OF MODELING METHODOLOGY
 
-(a) Accuracy of using Laguerre-polynomial expansion? pp. 7--8
+(a) Accuracy of using Laguerre-polynomial expansion? pp. 8--10
 
-(b) Does Central Limit Theorem repeatedly used and How about the accuracy for relatively small N? pp. 9--10
+(b) Does Central Limit Theorem repeatedly used and How about the accuracy for relatively small N? pp. 10--11
 
-(c) Impact of synchronization and phase alignment among multiple distributed UAV mounted RISs; pp. 10--12
+(c) Impact of synchronization and phase alignment among multiple distributed UAV mounted RISs; pp. 11--13
 
-(d) Accuracy influence for using Gaussian quadrature method; pp. 12--13
+(d) Accuracy influence for using Gaussian quadrature method; pp. 13--14
 
-(e) Whether the closest association policy is always better? pp. 13--16
+(e) Whether the closest association policy is always better? pp. 14--17
 
